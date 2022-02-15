@@ -13,3 +13,7 @@ body {
 p {
     color:rgb(240, 255, 242);
 }
+
+div {
+    background-color: darkorchid;
+}
