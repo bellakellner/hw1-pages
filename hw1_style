@@ -6,8 +6,10 @@ COMP33 HW1 Style Sheet
 
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 
-body {
+h1 {
     font-family: 'Luckiest Guy', cursive;
+    color: darkblue;
+
 }
 
 p {
