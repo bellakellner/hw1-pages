@@ -46,3 +46,31 @@ div {
     background-color: lightpink;
     text-align: center;
 }
+
+/*
+    Style individual list items.
+*/
+.navbar li {
+    width: 150 px;
+    background-color:lightpink;
+    border: 1px solid purple;
+    /*
+        Show the navbar elements next to each other instead of on top of each
+        other.
+    */
+    padding: 10px;
+    display: inline-block;
+    line-height: 40px;
+}
+
+/*
+    Style links in navbar.
+*/
+.navbar a {
+    color:#fff;
+    text-decoration: none;
+}
+
+table, td {
+    border: 1px solid gray;
+}
