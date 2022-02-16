@@ -4,22 +4,22 @@ COMP33 HW1 Style Sheet
 
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');*/
 
 /*
     The imported font should be applied to all body text.
 */
-h1 {
+/*h1 {
     font-family: 'Noto Sans SC', sans-serif;
     color:blueviolet
-}
-/*@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');*/
-
-/*h1 {
-    font-family: 'Luckiest Guy', cursive;
-    color: yellow;
-
 }*/
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    color: pink;
+
+}
 
 p {
     color:rgb(138, 114, 179);
