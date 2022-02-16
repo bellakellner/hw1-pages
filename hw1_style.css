@@ -29,6 +29,10 @@ div {
     background-color: lightblue;
 }
 
+#light-green-div {
+    color: lightseagreen;
+}
+
 .navbar ul {
     /*
         Remove bullet points.
