@@ -95,7 +95,7 @@ iframe {
         all borders are affected You can specify in clockwise order:
         top, right, bottom, left.
     */
-    margin: 10px 5px 15px 25px;
+    margin: 20px 10px 25px 35px;
     /*
         While margins are at the outside of the border, paddings are at the
         inside. You can specify a single value for all four margins, but you
