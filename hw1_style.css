@@ -29,7 +29,9 @@ div {
     background-color: lightblue;
 }
 
-
+#dark-blue-div {
+    color: royalblue;
+}
 
 .navbar ul {
     /*
