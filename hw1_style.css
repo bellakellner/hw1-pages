@@ -36,15 +36,15 @@ h4 {
 }
 
 p {
-    color: rgb(17, 119, 68);
+    color: rgb(15, 107, 61);
 }
 
 div {
-    background-color: lightblue;
+    background-color: rgb(188, 218, 228);
 }
 
 #dark-green-div {
-    color:  rgb(32, 121, 76);;
+    color:  rgb(28, 112, 70);;
 }
 
 .navbar ul {
