@@ -21,6 +21,20 @@ h1 {
 
 }
 
+h2 {
+    font-family: 'Luckiest Guy', cursive;
+    color: darkblue;
+}
+
+h3 {
+    font-family: 'Luckiest Guy', cursive;
+    color: darkblue;
+}
+h4 {
+    font-family: 'Luckiest Guy', cursive;
+    color: darkblue;
+}
+
 p {
     color:rgb(32, 121, 76);
 }
