@@ -70,7 +70,7 @@ div {
 */
 .navbar li {
     width: 150 px;
-    background-color:steelblue;
+    background-color:rgb(23, 61, 92);
     border: 1px solid purple;
     /*
         Show the navbar elements next to each other instead of on top of each
