@@ -17,13 +17,22 @@ COMP33 HW1 Style Sheet
 
 
 
-h1 {
+.heading1 {
     text-align: center;
     font-family: 'Staatliches', cursive;
     color: darkblue;
     font-size: xx-large;
 
 }
+
+h1{
+    
+    font-family: 'Staatliches', cursive;
+    color: darkblue;
+    font-size: xx-large;
+
+}
+
 
 h2 {
     font-family: 'Staatliches', cursive;
