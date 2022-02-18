@@ -1,18 +1,10 @@
 /*
-
-COMP33 HW1 Style Sheet
+Bella Kellner
+COMP333 HW1 Style Sheet
 
 */
 
-/*@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');*/
 
-/*
-    The imported font should be applied to all body text.
-*/
-/*h1 {
-    font-family: 'Noto Sans SC', sans-serif;
-    color:blueviolet
-}*/
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 
 
@@ -39,17 +31,6 @@ h2 {
     color: darkblue;
     font-size: larger;
     text-align: center;
-}
-
-h3 {
-    font-family: 'Staatliches', cursive;
-    color: darkblue;
-    font-size: larger;
-}
-h4 {
-    font-family: 'Staatliches', cursive;
-    color: darkblue;
-    font-size: larger;
 }
 
 p {
