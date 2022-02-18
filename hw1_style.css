@@ -67,6 +67,11 @@ div {
     font-size: larger;
 }
 
+#dark-green-div1 {
+    color: rgb(2, 46, 24);;
+    font-size: larger;
+}
+
 .navbar ul {
     /*
         Remove bullet points
